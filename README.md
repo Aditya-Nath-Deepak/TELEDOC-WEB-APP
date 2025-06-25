@@ -1,4 +1,4 @@
-# Medico
+# TELEDOC WEB APP 
 
 <img src="./readme-assets/medico_banner.png" style="padding-bottom: 1rem; aspect-ratio: 16 / 9">
 
@@ -142,6 +142,4 @@ To run the app locally, follow these steps:
 </p>
 </details>
 
-## Credits
 
--   [Aditya Bhattacharya](https://github.com/AdityaBhattacharya1/)
